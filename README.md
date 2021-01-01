@@ -36,7 +36,7 @@ nodes tweaked for high accuracy.
 Fine-tuned the parameters for the sentiment analysis model for optimum balance between
 performance and accuracy.
 
-## To train model just run
+#### To train model just run
 
 ```Python
 python sent_model_vocab.py
