@@ -35,3 +35,5 @@ nodes tweaked for high accuracy.
 
 Fine-tuned the parameters for the sentiment analysis model for optimum balance between
 performance and accuracy.
+
+You can download both `model_nn.h` and `sent_model_vocab_model` from [here](https://drive.google.com/file/d/1wa9CuGO3y4I-SGDDUfw-qbj2zoGBmfwn/view?usp=sharing)
