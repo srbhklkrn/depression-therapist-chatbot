@@ -42,3 +42,5 @@ performance and accuracy.
 python sent_model_vocab.py
 ```
 You can also download both pretrained models (`model_nn.h` and `sent_model_vocab_model`) from [here](https://drive.google.com/file/d/1wa9CuGO3y4I-SGDDUfw-qbj2zoGBmfwn/view?usp=sharing)
+
+The dataset can be downloaded from [here](https://drive.google.com/drive/folders/15uHknTNbKAVsKfe33bcF9q3LHfIFl9Kr?usp=sharing)
